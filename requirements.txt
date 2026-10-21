@@ -1,0 +1,12 @@
+flask>=3.0.0
+werkzeug>=3.0.0
+opencv-python
+numpy
+pillow
+gradio==5.9.1
+torch>=2.0.0
+torchvision>=0.15.0
+tqdm
+decord
+timm
+blazeface
